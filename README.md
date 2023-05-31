@@ -1,3 +1,3 @@
 # Hough-Transformation
-![](pictures/pic1)
-![](pictures/pic2)
+![](pictures/pic1.png)
+![](pictures/pic2.png)
